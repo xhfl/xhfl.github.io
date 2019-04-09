@@ -85,9 +85,10 @@ div {
 
 #background{
 	background: url("goodpal.png");
-	height: 99%;
+	height: auto;
 	width: 99%;
 	max-width: 100%;
+
 	/*background-position: center;*/
     background-repeat: no-repeat;
     background-size: cover;
